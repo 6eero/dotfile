@@ -1,0 +1,18 @@
+#! /bin/sh
+
+pgrep -x sxhkd > /dev/null || sxhkd &
+
+
+setxkbmap it &
+nitrogen --restore
+picom &
+./.config/polybar/launch.sh
+
+bspc monitor -d I II III IV V VI VII VIII IX X
+
+bspc config border_width         0
+bspc config window_gap          20
+
+bspc config split_ratio          0.6
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
