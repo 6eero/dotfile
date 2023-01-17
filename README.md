@@ -1,4 +1,4 @@
-# My Dotfiles
+# My Whale-arch dotfiles
 My dotfiles based on my own personal taste, using the colors of the [Whale](https://github.com/anufrievroman/whale) theme
 
 ![#000000](https://placehold.co/15x15/000000/000000.png)![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png)![#5eadfc](https://placehold.co/15x15/5eadfc/5eadfc.png)![#00fbad](https://placehold.co/15x15/00fbad/00fbad.png)![#fa5ead](https://placehold.co/15x15/fa5ead/fa5ead.png)![#ffdf5f](https://placehold.co/15x15/ffdf5f/ffdf5f.png) 
