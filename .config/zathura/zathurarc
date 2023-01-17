@@ -1,0 +1,8 @@
+set adjust-open "best-fit"
+
+set guioptions v
+set selection-clipboard clipboard
+
+map p navigate previous
+map n navigate next
+map i recolor
